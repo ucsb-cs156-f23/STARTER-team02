@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-f23/STARTER-team02
 owner: ucsb-cs156-f23
 repo_name: STARTER-team02
-pull_requests: []
+pull_requests: [{"author":{"id":"MDQ6VXNlcjExMTkwMTc=","is_bot":false,"login":"pconrad","name":"Phill Conrad"},"headRefName":"pc-fix-workflow-04","number":386,"title":"pc - fix workflow 04","url":"https://github.com/ucsb-cs156-f23/STARTER-team02/pull/386"}]
